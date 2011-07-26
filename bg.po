@@ -23,9 +23,8 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 
 #: ../core/data/TWiki/TWikiPreferences.txt:369
-#, fuzzy
 msgid "$text (this topic does not yet exist; you can create it)"
-msgstr "Забележка: тази страница не съществува"
+msgstr "$text (тази страница не съществува; може да я създадете)"
 
 #. ($days)
 #: ../core/lib/TWiki/Time.pm:309
@@ -56,9 +55,8 @@ msgstr "%1"
 
 #: ../core/templates/registernotifyadminfail.tmpl:3
 #: ../core/templates/registernotifyadminfailrem.tmpl:3
-#, fuzzy
 msgid "%1 - Registration failure for %2 (%3)"
-msgstr "%1 - Регистрация за %2 (%3)"
+msgstr "%1 - Регистрацията за %2 (%3) се провали"
 
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:110
 #: ../core/templates/registernotify.tmpl:3
@@ -189,16 +187,14 @@ msgid "%1 topic does not exist"
 msgstr "Страница %1 не съществува"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:56
-#, fuzzy
 msgid "&Attach"
-msgstr "Прикрепи"
+msgstr "Прикачване"
 
 #: ../PatternSkin/templates/twiki.pattern.tmpl:9
 msgid "&Cancel"
 msgstr "Отказ"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:21
-#, fuzzy
 msgid "&Edit"
 msgstr "Редактиране"
 
@@ -237,9 +233,8 @@ msgid "(Use a topic name in TWiki.WikiNotation)"
 msgstr "(За име на страница използвайте TWiki.WikiНотацията)"
 
 #: ../core/templates/messages.tmpl:164
-#, fuzzy
 msgid "(__Suggestion:__ How about uploading your picture to your profile page?)"
-msgstr "(__Suggestion:__ Можете да прикачите ваша снимка към страницата.)"
+msgstr "(__Предложение:__ Защо не прикачите Ваша снимка към страницата?)"
 
 #: ../core/templates/oopsaccessdenied.tmpl:4
 msgid "(access denied)"
@@ -435,9 +430,8 @@ msgid "*bullet list* 3 spaces, asterisk, 1 space: =&&nbsp;&&nbsp;&&nbsp;*&&nbsp;
 msgstr "*списък с водачи* 3 паузи, звездичка, 1 пауза: =&&nbsp;&&nbsp;&&nbsp;*&&nbsp;вашия текст="
 
 #: ../core/data/TWiki/WikiSyntaxSummary.txt:17
-#, fuzzy
 msgid "*external links* =http://google.com/= or =[<nop>[http://google.com/][link to Google]]="
-msgstr "*външни връзки* =http://yahoo.com= или =[<nop>[http://yahoo.com/][връзка към Yahoo]]="
+msgstr "*външни връзки* =http://google.com= или =[<nop>[http://google.com/][връзка към Google]]="
 
 #: ../core/data/TWiki/WikiSyntaxSummary.txt:14
 msgid "*headings* 3 dashes, 1 to 6 pluses, 1 space: =---++&&nbsp;Your Heading="
@@ -523,9 +517,8 @@ msgstr "Клавиши за достъп"
 
 #: ../PatternSkin/data/TWiki/UserBookmarks.txt:15
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopBar.txt:20
-#, fuzzy
 msgid "Account"
-msgstr "Действие"
+msgstr "Сметка"
 
 #: ../core/templates/attachtables.tmpl:37
 #: ../core/templates/attachtables.tmpl:4
@@ -589,9 +582,8 @@ msgid "All public webs"
 msgstr "Всички публични рздели"
 
 #: ../core/data/TWiki/WebTopicList.txt:2
-#, fuzzy
 msgid "All topics in %1 web"
-msgstr "Всички теми от %1"
+msgstr "Всички теми в раздел %1"
 
 #: ../core/templates/twiki.tmpl:7
 msgid "Allow non <nop>WikiWord for the new topic name"
@@ -624,42 +616,40 @@ msgid "Attach"
 msgstr "Прикрепи"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:29
-#, fuzzy
 msgid "Attach file or image"
-msgstr "Прикрепяне на файл към %1"
+msgstr "Прикачване на файл или картинка"
 
 #: ../PatternSkin/templates/attachnew.pattern.tmpl:4
 #: ../core/templates/attachnew.tmpl:4
 msgid "Attach file to %1"
-msgstr "Прикрепяне на файл към %1"
+msgstr "Прикачване на файл към %1"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:5
 msgid "Attach image or document on %1"
-msgstr "Прикрепяне на картинка или документ към %1"
+msgstr "Прикaчване на картинка или документ към %1"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:20
 #: ../core/templates/attach.tmpl:15
 #: ../core/templates/attachnew.tmpl:6
 #: ../core/templates/attachnew.tmpl:8
 msgid "Attach new file"
-msgstr "Прикрепяне на нов файл"
+msgstr "Прикaчване на нов файл"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:23
-#, fuzzy
 msgid "Attach up to 10 files at a time."
-msgstr "Прикрепяне на файл към %1"
+msgstr "Можете да прикачите до 10 файла едновременно."
 
 #: ../core/templates/attachtables.tmpl:4
 msgid "Attachment"
-msgstr "Прикрепен файл"
+msgstr "Прикaчен файл"
 
 #: ../core/templates/messages.tmpl:548
 msgid "Attachment '%1' does not exist"
-msgstr "Прикрепеният файл '%1' не съсществува"
+msgstr "Прикaченият файл '%1' не съществува"
 
 #: ../core/lib/TWiki/UI/Manage.pm:456
 msgid "Attachment already exists in new topic"
-msgstr "Прикрепения файл вече съществува в нова страница"
+msgstr "Прикaчения файл вече съществува в нова страница"
 
 #: ../core/templates/messages.tmpl:70
 msgid "Attachment delete failed"
@@ -671,7 +661,7 @@ msgstr "Притурката не съществува"
 
 #: ../core/templates/messages.tmpl:62
 msgid "Attachment move failed"
-msgstr "Преместването на притурката се провали"
+msgstr "Преместването на прикачения файл се провали"
 
 #: ../PatternSkin/templates/attachtables.pattern.tmpl:7
 msgid "Attachments"
@@ -803,18 +793,16 @@ msgid "Categories"
 msgstr "Категории"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:42
-#, fuzzy
 msgid "Change"
-msgstr "Променен"
+msgstr "Променяне"
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangePassword.txt:2
 msgid "Change Password"
 msgstr "Промяна на паролата"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:2
-#, fuzzy
 msgid "Change Profile Picture of %1"
-msgstr "Смяна на страница"
+msgstr "Подмяна на снимката на профила на %1"
 
 #: ../PatternSkin/templates/attachagain.pattern.tmpl:16
 msgid "Change comment and properties only"
@@ -853,9 +841,8 @@ msgstr "Смяна на парола"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:42
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:44
-#, fuzzy
 msgid "Change profile picture"
-msgstr "Смяна на страница"
+msgstr "Смяна на снимката на профила"
 
 #: ../core/templates/attachagain.tmpl:21
 msgid "Change properties only"
@@ -950,9 +937,8 @@ msgid "Comment"
 msgstr "Коментар"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:332
-#, fuzzy
 msgid "Comment:"
-msgstr "Коментари:"
+msgstr "Коментар:"
 
 #: ../ClassicSkin/templates/oopsmore.classic.tmpl:44
 #: ../core/templates/oopsmore.tmpl:94
@@ -960,14 +946,13 @@ msgid "Compare revisions"
 msgstr "Сравняване на версиите"
 
 #: ../core/templates/messages.tmpl:207
-#, fuzzy
 msgid "Confirm registration"
-msgstr "Регистрация"
+msgstr "Потвърждаване на регистрацията"
 
 #: ../core/templates/renameconfirm.tmpl:7
 #: ../core/templates/renamewebconfirm.tmpl:7
 msgid "Confirm rename or move"
-msgstr "Попотвърдете преименуването или преместването"
+msgstr "Потвърдете преименуването или преместването"
 
 #: ../core/templates/messages.tmpl:39
 msgid "Confirm your changes using TWiki's [[%1][topic history comparison tool (diff)]]."
@@ -998,9 +983,8 @@ msgstr "Продължете, за да създадете новата стра
 
 #: ../core/data/TWiki/TWikiPreferences.txt:39
 #: ../core/data/TWiki/WebPreferences.txt:36
-#, fuzzy
 msgid "Copyright &&copy; %1 by the contributing authors. All material on this collaboration platform is the property of the contributing authors."
-msgstr "Авторските права &&copy; принадлежат на сътрудничещите автори. Всички материали по тази платформа за сътрудничество са собственост на сътрудничещите автори."
+msgstr "Авторските права &&copy; %1 принадлежат на сътрудничещите автори. Всички материали по тази платформа за сътрудничество са собственост на сътрудничещите автори."
 
 #: ../core/templates/messages.tmpl:140
 msgid "Could not create the new web %1"
@@ -1020,9 +1004,8 @@ msgstr "Неуспешен запис на %1."
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:125
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:75
-#, fuzzy
 msgid "Country"
-msgstr "Страна:"
+msgstr "Страна"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:136
 msgid "Country:"
@@ -1030,9 +1013,8 @@ msgstr "Страна:"
 
 #: ../TagMePlugin/data/TWiki/TagMeCreateNewTag.txt:23
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:27
-#, fuzzy
 msgid "Create"
-msgstr "Създаване на '%1'"
+msgstr "Създаване"
 
 #: ../core/data/TWiki/WebTopicViewTemplate.txt:30
 msgid "Create '%1'"
@@ -1055,12 +1037,12 @@ msgstr "Нова Страница"
 #: ../PatternSkin/data/TWiki/PatternSkinWebCreateNewTopicTemplate.txt:43
 #: ../core/data/TWiki/WebCreateNewTopicTemplate.txt:6
 msgid "Create New Topic in %1 Web"
-msgstr "Създаване на нова страница в Раздел %1"
+msgstr "Създаване на нова страница в раздел %1"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:37
 #: ../core/templates/attach.tmpl:38
 msgid "Create a link to the attached file"
-msgstr "Създаване на връзка към притурката(прикачения файл)"
+msgstr "Създаване на връзка към прикачения файл"
 
 #: ../core/data/Sandbox/WebHome.txt:17
 msgid "Create a new auto-numbered test topic:"
@@ -1110,9 +1092,8 @@ msgid "Current password"
 msgstr "Текуща парола"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:46
-#, fuzzy
 msgid "Current picture"
-msgstr "Текуша родителска страница/раздел:"
+msgstr "Текуща снимка"
 
 #: ../core/templates/attachtables.tmpl:37
 #: ../core/templates/attachtables.tmpl:4
@@ -1122,7 +1103,7 @@ msgstr "Дата"
 #: ../ClassicSkin/templates/mailresetpassword.classic.tmpl:5
 #: ../core/templates/mailresetpassword.tmpl:5
 msgid "Dear %1"
-msgstr "Уважаеми %1"
+msgstr "Уважаеми/а %1"
 
 #: ../core/templates/oopsmore.tmpl:98
 msgid "Debug"
@@ -1142,7 +1123,7 @@ msgstr "Изтриване"
 
 #: ../PatternSkin/templates/renameattachmentdelete.pattern.tmpl:28
 msgid "Delete attachment"
-msgstr "Изтриване на притурка"
+msgstr "Изтриване на прикачен файл"
 
 #: ../EditTablePlugin/data/TWiki/EditTablePlugin.txt:183
 msgid "Delete last row"
@@ -1212,7 +1193,7 @@ msgstr "Не показвай:"
 
 #: ../core/templates/messages.tmpl:71
 msgid "During deletion of attachment =%1= an error was found. Please notify your %2 administrator."
-msgstr "При изтриването на притурката =%1= се появи грешка. Моля, уведомете вашия %2 администратор."
+msgstr "При изтриването на прикачения файл =%1= се появи грешка. Моля, уведомете вашия %2 администратор."
 
 #: ../core/templates/messages.tmpl:63
 msgid "During move of attachment %1 to %2 an error was found. Please notify your %3 administrator."
@@ -1265,9 +1246,8 @@ msgid "Edit table"
 msgstr "Редактиране на таблица"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:66
-#, fuzzy
 msgid "Edit this record"
-msgstr "Редактиране на тази таблица"
+msgstr "Редактиране на този запис"
 
 #: ../EditTablePlugin/data/TWiki/EditTablePlugin.txt:179
 msgid "Edit this table"
@@ -1360,9 +1340,8 @@ msgid "Files have been uploaded with different name"
 msgstr "Файлoвете бяха качени с различно име"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:21
-#, fuzzy
 msgid "Find backlinks"
-msgstr "Обратни връзки"
+msgstr "Намерете обратни връзки"
 
 #: ../ClassicSkin/templates/oopsmore.classic.tmpl:18
 #: ../ClassicSkin/templates/oopsmore.classic.tmpl:20
@@ -1468,13 +1447,12 @@ msgid "Hierarchical Webs is currently disabled, you cannot create Nested webs."
 msgstr "Поддръжката на раздели в йерархия е изключена. Не можете да създавате раздели един в друг."
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:22
-#, fuzzy
 msgid "History"
 msgstr "История"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinHomeMenu.txt:11
 msgid "Home"
-msgstr ""
+msgstr "Начало"
 
 #: ../core/templates/registernotify.tmpl:16
 msgid "How about attaching your photo?"
@@ -1721,9 +1699,8 @@ msgstr "Локални настройки засягащи целия сайт"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:123
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:73
-#, fuzzy
 msgid "Location"
-msgstr "Действие"
+msgstr "Текущ адрес"
 
 #: ../PatternSkin/templates/twiki.pattern.tmpl:4
 msgid "Log In"
@@ -1735,7 +1712,7 @@ msgstr "Изход"
 
 #: ../core/templates/registernotify.tmpl:18
 msgid "Login as \"%1\". Please note that login and password are case sensitive."
-msgstr ""
+msgstr "Влизане като \"%1\". Моля, отбележете, че потребителското име и паролата са чувствителни към регистъра на буквите."
 
 #: ../ClassicSkin/templates/mailresetpassword.classic.tmpl:9
 #: ../core/templates/mailresetpassword.tmpl:9
@@ -1777,15 +1754,14 @@ msgstr "Още помощ при форматиране"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:23
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:32
-#, fuzzy
 msgid "More topic actions"
-msgstr "Още действия..."
+msgstr "Още действия по страницата"
 
 #: ../PatternSkin/templates/rdiff.pattern.tmpl:29
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:146
 #: ../core/templates/viewtopicactionbuttons.tmpl:78
 msgid "More topic actions..."
-msgstr "Още действия..."
+msgstr "Още действия по страницата..."
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinHomeMenu.txt:16
 #: ../TwistyPlugin/data/TWiki/TwistyPlugin.txt:557
@@ -1799,19 +1775,19 @@ msgstr "Преместване"
 
 #: ../core/templates/moveattachment.tmpl:10
 msgid "Move attachment"
-msgstr "Преместване на притурка"
+msgstr "Преместване на прикачен файл"
 
 #: ../core/templates/moveattachment.tmpl:22
 msgid "Move attachment to web:"
-msgstr "Преместване на притурка в раздел:"
+msgstr "Преместване на прикачен файл в раздел:"
 
 #: ../core/templates/moveattachment.tmpl:7
 msgid "Move file attachment"
-msgstr "Преместване на притурка"
+msgstr "Преместване на прикачен файл"
 
 #: ../core/templates/attachagain.tmpl:21
 msgid "Move or delete attachment"
-msgstr "Преместване или изтриване на притурка"
+msgstr "Преместване или изтриване на прикачен файл"
 
 #: ../PatternSkin/templates/renameattachmentdelete.pattern.tmpl:21
 msgid "Move to web:"
@@ -1826,9 +1802,8 @@ msgid "Move/Rename"
 msgstr "Премести/Преименувай"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:126
-#, fuzzy
 msgid "Must change password"
-msgstr "Смяна на парола"
+msgstr "Трябва да промените паролата си"
 
 #: ../TWikiUserMappingContrib/data/TWiki/NewUserTemplate.txt:59
 msgid "My Links"
@@ -1856,9 +1831,8 @@ msgstr "Нови e-mail-и (списък разделен с паузи)"
 
 #: ../MailerContrib/templates/mailnotify.tmpl:73
 #: ../MailerContrib/templates/mailnotify.tmpl:9
-#, fuzzy
 msgid "New or changed topics in %1 web since %2:"
-msgstr "Нова или променена страница в %1, от %2:"
+msgstr "Нови или променени страници в раздел %1 от %2:"
 
 #: ../core/templates/renamewebbase.tmpl:10
 msgid "New parent web:"
@@ -2200,9 +2174,8 @@ msgstr "Презареждане"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:124
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:74
-#, fuzzy
 msgid "Region"
-msgstr "Версия"
+msgstr "Област"
 
 #: ../ClassicSkin/templates/twiki.classic.tmpl:9
 #: ../PatternSkin/data/TWiki/WebLeftBarLogin.txt:3
@@ -2212,9 +2185,8 @@ msgstr "Регистрация"
 
 #: ../PatternSkin/data/TWiki/UserBookmarks.txt:23
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopBar.txt:38
-#, fuzzy
 msgid "Register User"
-msgstr "Регистрация"
+msgstr "Регистрация на потребител"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:13
 msgid "Registered users can [[%1][change]] and [[%2][reset]] their passwords."
@@ -2234,12 +2206,11 @@ msgstr "Търсене с регулярни изрази"
 
 #: ../TWikiUserMappingContrib/data/TWiki/NewUserTemplate.txt:76
 msgid "Related Topics"
-msgstr "Подобни"
+msgstr "Подобни страници"
 
 #: ../TagMePlugin/lib/TWiki/Plugins/TagMePlugin.pm:858
-#, fuzzy
 msgid "Related tags"
-msgstr "Подобни:"
+msgstr "Подобни етикети"
 
 #: ../TWikiUserMappingContrib/data/Main/TWikiGroupTemplate.txt:22
 #: ../TWikiUserMappingContrib/data/TWiki/ChangeEmailAddress.txt:48
@@ -2254,7 +2225,7 @@ msgstr "Подобни:"
 #: ../core/templates/messages.tmpl:503
 #: ../core/templates/messages.tmpl:510
 msgid "Related topics:"
-msgstr "Подобни:"
+msgstr "Подобни страници:"
 
 #: ../ClassicSkin/templates/login.classic.tmpl:10
 msgid "Remember me"
@@ -2355,9 +2326,8 @@ msgid "Results from %1 web"
 msgstr "Резултати от раздел %1"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:81
-#, fuzzy
 msgid "Return to"
-msgstr "Върнете се към %1."
+msgstr "Върнете се към"
 
 #: ../core/templates/messages.tmpl:197
 msgid "Return to %1."
@@ -2402,9 +2372,8 @@ msgid "S = Save, Q = Quiet save, K = Save and Continue, P = Preview, C = Cancel"
 msgstr "S = Запис, Q = Тих запис, K = Запис и нататък, P = Преглед, C = Отказ"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:117
-#, fuzzy
 msgid "Save"
-msgstr "Записано в:"
+msgstr "Запис"
 
 #: ../EditTablePlugin/data/TWiki/EditTablePlugin.txt:180
 msgid "Save table"
@@ -2511,16 +2480,15 @@ msgstr "Изберете"
 
 #: ../PatternSkin/templates/attachagain.pattern.tmpl:20
 msgid "Select a new local file to update attachment"
-msgstr "Изберете нов локален фай, за да обновите притурката"
+msgstr "Изберете нов файл от Вашия компютър, за да обновите прикачения файл"
 
 #: ../PatternSkin/templates/renamebase.pattern.tmpl:33
 msgid "Select all"
 msgstr "Избор на всичко"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:76
-#, fuzzy
 msgid "Select existing picture"
-msgstr "Избери родителска страница:"
+msgstr "Изберете съществуваща снимка"
 
 #: ../core/templates/oopsmore.tmpl:55
 msgid "Select topic parent:"
@@ -2558,9 +2526,8 @@ msgid "Show help"
 msgstr "Покажи помощ"
 
 #: ../core/data/TWiki/WebChanges.txt:16
-#, fuzzy
 msgid "Show recent changes with <a href='%2'>50</a>, <a href='%3' rel='nofollow'>100</a>, <a href='%4' rel='nofollow'>200</a>, <a href='%5' rel='nofollow'>500</a>, <a href='%6' rel='nofollow'>1000</a> topics, <a href='%7' rel='nofollow'>all changes</a>"
-msgstr "<a href='%1'>RSS Емисии</a>, последни промени <a href='%2'>50</a>, <a href='%3' rel='nofollow'>100</a>, <a href='%4' rel='nofollow'>200</a>, <a href='%5' rel='nofollow'>500</a>, <a href='%6' rel='nofollow'>1000</a> страници, <a href='%7' rel='nofollow'>всички промени</a>"
+msgstr "Последните <a href='%2'>50</a>, <a href='%3' rel='nofollow'>100</a>, <a href='%4' rel='nofollow'>200</a>, <a href='%5' rel='nofollow'>500</a>, <a href='%6' rel='nofollow'>1000</a> променени страници, <a href='%7' rel='nofollow'>всички промени</a>"
 
 #: ../TWikiUserMappingContrib/data/TWiki/NewUserTemplate.txt:71
 msgid "Show tool-tip topic info on mouse-over of %1 links, on or off:"
@@ -2741,9 +2708,8 @@ msgid "The %1 topic already exists"
 msgstr "Страницата %1 вече съществува"
 
 #: ../core/data/TWiki/RenameWeb.txt:3
-#, fuzzy
 msgid "The %1 web cannot be renamed."
-msgstr "Новият раздел бе създаден"
+msgstr "Разделът %1 не може да бъде преименуван"
 
 #: ../core/templates/messages.tmpl:513
 msgid "The %1 web does not exist"
@@ -2928,9 +2894,8 @@ msgstr ""
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:119
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:69
-#, fuzzy
 msgid "Title"
-msgstr "Заглавие на страницата"
+msgstr "Заглавие"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:5
 msgid "To edit pages on this TWikiSite, you must have a registered user name and password."
@@ -2965,9 +2930,8 @@ msgid "To web:"
 msgstr "Към раздел:"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:18
-#, fuzzy
 msgid "Topic"
-msgstr "Към страница:"
+msgstr "Страница"
 
 #: ../core/templates/messages.tmpl:319
 msgid "Topic Save Error"
@@ -3086,7 +3050,6 @@ msgid "Update links"
 msgstr "Връзки за обновяване"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:61
-#, fuzzy
 msgid "Upload"
 msgstr "Качване"
 
@@ -3095,12 +3058,11 @@ msgstr "Качване"
 #: ../core/templates/attachagain.tmpl:21
 #: ../core/templates/attachnew.tmpl:9
 msgid "Upload file"
-msgstr "Качване"
+msgstr "Качване на файл"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:57
-#, fuzzy
 msgid "Upload new picture"
-msgstr "Качване"
+msgstr "Качване на нова снимка"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:22
 msgid "Upload up to %1 KB."
@@ -3142,9 +3104,8 @@ msgid "User Reference"
 msgstr "Потребителски Настройки"
 
 #: ../TopMenuSkin/data/TWiki/WebTopMenu.txt:12
-#, fuzzy
 msgid "User registration"
-msgstr "Регистрация"
+msgstr "Регистрация на потребител"
 
 #: ../PatternSkin/data/TWiki/PatternSkinElements.txt:182
 #: ../core/templates/login.tmpl:42
@@ -3245,18 +3206,16 @@ msgstr "Внимание: Този сайт не разрешава %<nop>INCLUD
 
 #: ../MailerContrib/data/TWiki/MailerContrib.txt:174
 #: ../MailerContrib/templates/mailnotify.tmpl:62
-#, fuzzy
 msgid "Web"
-msgstr "Раздели"
+msgstr "Раздел"
 
 #: ../core/data/Main/WebNotify.txt:2
 #: ../core/data/Sandbox/WebNotify.txt:2
 #: ../core/data/TWiki/WebNotify.txt:2
 #: ../core/data/Trash/WebNotify.txt:2
 #: ../core/data/_default/WebNotify.txt:2
-#, fuzzy
 msgid "Web Notification"
-msgstr "Абонамент"
+msgstr "Уведомяване в уеб"
 
 #: ../core/data/TWiki/WebSearch.txt:3
 msgid "Web Search"
@@ -3311,9 +3270,8 @@ msgid "You are recommended to choose short names, preferably less than 10 charac
 msgstr ""
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangePassword.txt:12
-#, fuzzy
 msgid "You are required to change your password."
-msgstr "Можете да промените паролата си от %1"
+msgstr "Трябва да промените паролата си задължително."
 
 #: ../core/templates/messages.tmpl:549
 msgid "You are trying to %1 an attachment that does not exist."
@@ -3420,9 +3378,8 @@ msgid "Your personal %1 user profile page is located at %2. You can customize it
 msgstr ""
 
 #: ../core/templates/messages.tmpl:163
-#, fuzzy
 msgid "Your personal TWiki user profile page %1 has been created"
-msgstr "Вашата лична TWiki страница %1 бе създадена"
+msgstr "Вашата лична страница за профил в TWiki %1 бе създадена"
 
 #: ../core/templates/messages.tmpl:195
 msgid "Your registered e-mail address(es) are updated to: %1."
@@ -3446,9 +3403,8 @@ msgid "Your user topic has not been renamed. Please e-mail %1 to request this."
 msgstr ""
 
 #: ../core/templates/messages.tmpl:30
-#, fuzzy
 msgid "[[%1][%2 home]]"
-msgstr "Начало %1"
+msgstr "[[%1][%2 начало]]"
 
 #: ../core/templates/messages.tmpl:22
 #, fuzzy
