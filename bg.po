@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-27 01:00+0200\n"
+"PO-Revision-Date: 2011-07-28 00:15+0200\n"
 "Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -919,7 +919,7 @@ msgstr "Щракнете за да върнете страницата на пр
 
 #: ../TagMePlugin/lib/TWiki/Plugins/TagMePlugin.pm:859
 msgid "Click to refine the search"
-msgstr ""
+msgstr "Щракнете, за да стесните търсенето"
 
 #: ../TwistyPlugin/data/TWiki/TwistyPlugin.txt:559
 msgid "Close"
@@ -1144,7 +1144,7 @@ msgstr "Изтриване на страница..."
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:120
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:70
 msgid "Department"
-msgstr ""
+msgstr "Отдел"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:29
 msgid "Describe the file so other people know what it is."
@@ -1286,7 +1286,7 @@ msgstr "Въведете TWiki Администратор потребител �
 
 #: ../ClassicSkin/templates/login.classic.tmpl:21
 msgid "Enter your TWiki.LoginName. (Typically First name and last name, no space, no dots, capitalized, e.g. !JohnSmith, unless you chose otherwise). Visit %TWIKIWEB%.TWikiRegistration if you do not have one."
-msgstr "Въведете вашето TWiki.ПотребителскоИме. (Обикновено собственото име и фамилията слети, без паузи и точки с първите букви главни, например !JohnSmith, Освен ако не сте избрали друго). Посетете %TWIKIWEB%.TWikiRegistration ако нямате такова."
+msgstr "Въведете Вашето TWiki.LoginName. (Обикновено собственото име и фамилията слети, без паузи и точки с първите букви главни, например !JohnSmith, Освен ако не сте избрали друго). Посетете %TWIKIWEB%.TWikiRegistration ако нямате такова."
 
 #: ../core/templates/messages.tmpl:241
 msgid "Error registering new user"
@@ -1571,11 +1571,11 @@ msgstr "В някои случаи TWiki променя името на каче
 #: ../core/templates/messages.tmpl:269
 #: ../core/templates/messages.tmpl:276
 msgid "Incorrect %1"
-msgstr "Невярно %1"
+msgstr "Неправилно %1"
 
 #: ../core/templates/messages.tmpl:279
 msgid "Incorrect %1.WikiNames:"
-msgstr "Неправилно %1.WikiИмена:"
+msgstr "Неправилни %1.WikiNames:"
 
 #: ../core/templates/messages.tmpl:105
 msgid "Incorrect Password"
@@ -2029,7 +2029,7 @@ msgstr "Място за изхвърлени прикачени файлове"
 #: ../core/templates/messages.tmpl:266
 #: ../core/templates/messages.tmpl:316
 msgid "Please contact %1 if you have any questions."
-msgstr ""
+msgstr "Моля, свържете се с %1 ако имате някакви въпроси."
 
 #: ../core/templates/messages.tmpl:148
 #: ../core/templates/messages.tmpl:157
@@ -2076,7 +2076,7 @@ msgstr ""
 #: ../core/templates/messages.tmpl:49
 #: ../core/templates/messages.tmpl:67
 msgid "Please go back in your browser and try again."
-msgstr ""
+msgstr "Моля, върнете се назад с браузъра и опитайте отново."
 
 #: ../core/templates/messages.tmpl:53
 msgid "Please make sure you spelled the %1 correctly and try again. If you get stuck, please mail %2."
@@ -2111,7 +2111,7 @@ msgstr "Настройки за"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:20
 msgid "Print version"
-msgstr ""
+msgstr "Версия за печат"
 
 #: ../PatternSkin/templates/attach.pattern.tmpl:35
 msgid "Properties"
@@ -2877,7 +2877,7 @@ msgstr ""
 
 #: ../core/data/TWiki/WebTopicViewTemplate.txt:7
 msgid "This topic has moved to %1."
-msgstr ""
+msgstr "Тази страница е преместена в %1."
 
 #: ../core/data/TWiki/WebTopicNonWikiTemplate.txt:6
 msgid "This topic name is not recommended because it will not be linked automatically. See %1 for details"
@@ -2886,7 +2886,7 @@ msgstr ""
 #: ../ClassicSkin/templates/viewprint.classic.tmpl:11
 #: ../core/templates/viewprint.tmpl:13
 msgid "This topic:"
-msgstr ""
+msgstr "Тази страница:"
 
 #: ../core/templates/messages.tmpl:37
 msgid "Those changes have been merged with yours to create Rev %1. Text fields will have been merged, but other data such as form fields may have overwritten the other users changes. Please inspect the topic to make sure it is OK, especially if you made any changes to form fields."
@@ -2957,7 +2957,7 @@ msgstr "Име на страницата:"
 #: ../PatternSkin/data/TWiki/PatternSkinWebCreateNewTopicTemplate.txt:54
 #: ../core/data/TWiki/WebCreateNewTopicTemplate.txt:34
 msgid "Topic parent:"
-msgstr ""
+msgstr "Родител на страницата"
 
 #: ../ClassicSkin/templates/viewprint.classic.tmpl:12
 #: ../PatternSkin/templates/rdiff.pattern.tmpl:19
@@ -2983,7 +2983,7 @@ msgstr "Заглавие на страницата"
 
 #: ../core/templates/messages.tmpl:34
 msgid "Topic was merged"
-msgstr ""
+msgstr "Страницата бе обединена"
 
 #: ../PatternSkin/data/TWiki/PatternSkinWebCreateNewTopicTemplate.txt:28
 msgid "Topic will be named: "
@@ -2996,11 +2996,11 @@ msgstr "Теми в раздел %1"
 #: ../MailerContrib/templates/mailnotify.tmpl:14
 #: ../core/templates/search.text.tmpl:4
 msgid "Topics in %1 web:"
-msgstr ""
+msgstr "Страници в раздел %1:"
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:75
 msgid "Topics per web"
-msgstr ""
+msgstr "Страници на раздел"
 
 #: ../core/templates/renamewebbase.tmpl:29
 msgid "Topics which are currently being edited by other users in the %1 Web:"
@@ -3026,11 +3026,11 @@ msgstr "Опитай отново"
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:122
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:72
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:133
 msgid "URL:"
-msgstr ""
+msgstr "URL:"
 
 #: ../core/templates/login.sudo.tmpl:5
 msgid "Unrecognised user and/or password"
@@ -3344,7 +3344,7 @@ msgstr ""
 #: ../ClassicSkin/templates/oopsmore.classic.tmpl:53
 #: ../core/templates/oopsmore.tmpl:106
 msgid "You will be able to review the topic before saving it to a new revision"
-msgstr ""
+msgstr "Ще имате възможност да прегледате страницата, преди да запишете новата версия."
 
 #: ../core/templates/messages.tmpl:352
 msgid "You will probably have to ask your administrator, %1, to do this."
@@ -3354,7 +3354,7 @@ msgstr ""
 #: ../TWikiUserMappingContrib/data/TWiki/ChangePassword.txt:26
 #: ../TWikiUserMappingContrib/data/TWiki/ResetPassword.txt:24
 msgid "Your %1.LoginName"
-msgstr "Вашето %1.ПотребитескоИме"
+msgstr "Вашето %1.LoginName"
 
 #: ../core/templates/messages.tmpl:202
 msgid "Your activation code has been sent to %1.  Either click on the link in your e-mail or enter the code in the box below to activate your membership. (This code is of the form \"YourName.xxxxxxxxxx\")"
@@ -3407,9 +3407,8 @@ msgid "[[%1][%2 home]]"
 msgstr "[[%1][%2 начало]]"
 
 #: ../core/templates/messages.tmpl:22
-#, fuzzy
 msgid "[[%1][%2 home]] to start working on the new web"
-msgstr "%1, за да работите по новия  раздел"
+msgstr "[[%1][%2 home]], за да работите по новия  раздел"
 
 #: ../core/templates/messages.tmpl:339
 msgid "[[%1][Debug topic text]]."
@@ -3420,9 +3419,8 @@ msgid "[multiple of 3 spaces] * [space] Set [space] VARIABLENAME [space] = [valu
 msgstr "[кратно на 3 паузи] * [пауза] Set [пауза] ИМЕНАПРОМЕНЛИВА [пауза] = [стойност]"
 
 #: ../core/data/TWiki/RenameWeb.txt:3
-#, fuzzy
 msgid "__Note:__"
-msgstr "Забележка:"
+msgstr "__Забележка:__"
 
 #: ../core/lib/TWiki/I18N.pm:292
 msgid "_language_name"
@@ -3588,9 +3586,8 @@ msgid "title='%IF{ "
 msgstr ""
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:54
-#, fuzzy
 msgid "title='Attach an image or document to this topic' accesskey='a'"
-msgstr "title='Прикачване на картинка или документ към страницата' accesskey='a'>Притурка"
+msgstr "title='Прикачване на картинка или документ към страницата' accesskey='a'"
 
 #: ../core/templates/viewtopicactionbuttons.tmpl:16
 msgid "title='Attach an image or document to this topic' accesskey='a'>&Attach"
@@ -3611,23 +3608,20 @@ msgid "title='Delete or rename this topic; set parent topic; view and compare re
 msgstr "title='Изтриване или преименуване на страницата; задаване на родителска страница; преглед и сравнение' revisions' accesskey='m'>Още действия"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:19
-#, fuzzy
 msgid "title='Edit this topic text' accesskey='e'"
-msgstr "title='Редактиране текста на тази страница' accesskey='e'>Редкация"
+msgstr "title='Редактиране текста на тази страница' accesskey='e'"
 
 #: ../core/templates/viewtopicactionbuttons.tmpl:7
-#, fuzzy
 msgid "title='Edit this topic text' accesskey='e'>%1 &Edit"
-msgstr "title='Редактиране текста на тази страница' accesskey='e'>Редкация"
+msgstr "title='Редактиране текста на тази страница' accesskey='e'>%1 Редкация"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:30
 msgid "title='Edit this topic text' accesskey='w'>&WYSIWYG"
 msgstr "title='Редактиране текста на тази страница' accesskey='w'>&WYSIWYG"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:76
-#, fuzzy
 msgid "title='PDF version of this topic'>&PDF version"
-msgstr "title='Версия за печат на тази страница' accesskey='p'>Версия за печат"
+msgstr "title='PDF-версия на тази страница' accesskey='p'>PDF-версия"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:66
 #: ../core/templates/viewtopicactionbuttons.tmpl:23
@@ -3738,17 +3732,15 @@ msgstr "*трябва* да имате поне един валиден e-mail-�
 #~ msgid "Organisation name:"
 #~ msgstr "Име на организацията"
 
-#, fuzzy
 #~ msgid "Recently Deleted Topics"
-#~ msgstr "Последно променяни страници"
+#~ msgstr "Последно изтрити страници"
 
 #~ msgid "Your password:"
 #~ msgstr "Вашата парола:"
 
-#, fuzzy
 #~ msgid "title='Printable version of this topic' accesskey='p'"
 #~ msgstr ""
-#~ "title='Версия за печат на тази страница' accesskey='p'>Версия за печат"
+#~ "title='Версия за печат на тази страница' accesskey='p'"
 
 #~ msgid "title='Raw Edit this topic text' accesskey='w'>Ra&w edit"
 #~ msgstr ""
