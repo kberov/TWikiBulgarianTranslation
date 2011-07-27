@@ -3407,9 +3407,8 @@ msgid "[[%1][%2 home]]"
 msgstr "[[%1][%2 начало]]"
 
 #: ../core/templates/messages.tmpl:22
-#, fuzzy
 msgid "[[%1][%2 home]] to start working on the new web"
-msgstr "%1, за да работите по новия  раздел"
+msgstr "[[%1][%2 начало]], за да работите по новия  раздел"
 
 #: ../core/templates/messages.tmpl:339
 msgid "[[%1][Debug topic text]]."
@@ -3420,9 +3419,8 @@ msgid "[multiple of 3 spaces] * [space] Set [space] VARIABLENAME [space] = [valu
 msgstr "[кратно на 3 паузи] * [пауза] Set [пауза] ИМЕНАПРОМЕНЛИВА [пауза] = [стойност]"
 
 #: ../core/data/TWiki/RenameWeb.txt:3
-#, fuzzy
 msgid "__Note:__"
-msgstr "Забележка:"
+msgstr "__Забележка:__"
 
 #: ../core/lib/TWiki/I18N.pm:292
 msgid "_language_name"
@@ -3434,7 +3432,7 @@ msgstr "за !BookView"
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:58
 msgid "about regular expression search"
-msgstr "за търсенето с регулярни изрази"
+msgstr "за търсенето с помощта на регулярни изрази"
 
 #: ../core/lib/TWiki/Access.pm:188
 msgid "access denied on root"
@@ -3588,9 +3586,8 @@ msgid "title='%IF{ "
 msgstr ""
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:54
-#, fuzzy
 msgid "title='Attach an image or document to this topic' accesskey='a'"
-msgstr "title='Прикачване на картинка или документ към страницата' accesskey='a'>Притурка"
+msgstr "title='Прикачване на картинка или документ към страницата' accesskey='a'"
 
 #: ../core/templates/viewtopicactionbuttons.tmpl:16
 msgid "title='Attach an image or document to this topic' accesskey='a'>&Attach"
@@ -3611,23 +3608,20 @@ msgid "title='Delete or rename this topic; set parent topic; view and compare re
 msgstr "title='Изтриване или преименуване на страницата; задаване на родителска страница; преглед и сравнение' revisions' accesskey='m'>Още действия"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:19
-#, fuzzy
 msgid "title='Edit this topic text' accesskey='e'"
-msgstr "title='Редактиране текста на тази страница' accesskey='e'>Редкация"
+msgstr "title='Редактиране текста на тази страница' accesskey='e'"
 
 #: ../core/templates/viewtopicactionbuttons.tmpl:7
-#, fuzzy
 msgid "title='Edit this topic text' accesskey='e'>%1 &Edit"
-msgstr "title='Редактиране текста на тази страница' accesskey='e'>Редкация"
+msgstr "title='Редактиране текста на тази страница' accesskey='e'>%1 Редкация"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:30
 msgid "title='Edit this topic text' accesskey='w'>&WYSIWYG"
 msgstr "title='Редактиране текста на тази страница' accesskey='w'>&WYSIWYG"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:76
-#, fuzzy
 msgid "title='PDF version of this topic'>&PDF version"
-msgstr "title='Версия за печат на тази страница' accesskey='p'>Версия за печат"
+msgstr "title='PDF-версия на тази страница'>PDF-версия"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:66
 #: ../core/templates/viewtopicactionbuttons.tmpl:23
@@ -3738,17 +3732,15 @@ msgstr "*трябва* да имате поне един валиден e-mail-�
 #~ msgid "Organisation name:"
 #~ msgstr "Име на организацията"
 
-#, fuzzy
 #~ msgid "Recently Deleted Topics"
-#~ msgstr "Последно променяни страници"
+#~ msgstr "Последно изтрити страници"
 
 #~ msgid "Your password:"
 #~ msgstr "Вашата парола:"
 
-#, fuzzy
 #~ msgid "title='Printable version of this topic' accesskey='p'"
 #~ msgstr ""
-#~ "title='Версия за печат на тази страница' accesskey='p'>Версия за печат"
+#~ "title='Версия за печат на тази страница' accesskey='p'"
 
 #~ msgid "title='Raw Edit this topic text' accesskey='w'>Ra&w edit"
 #~ msgstr ""
