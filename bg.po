@@ -2245,7 +2245,7 @@ msgstr "Запомняне на паролата?"
 
 #: ../core/data/TWiki/WebTopicViewTemplate.txt:22
 msgid "Remember, a %1 is case sensitive."
-msgstr "Запомнете, %1 е яувствително към регистъра на буквите."
+msgstr "Запомнете, %1 е чувствително към регистъра на буквите."
 
 #: ../core/templates/messages.tmpl:59
 msgid "Remove the user from the group(s) %1 first."
@@ -2796,19 +2796,19 @@ msgstr "Задължителното поле %1 не бе попълнено."
 
 #: ../core/templates/messages.tmpl:146
 msgid "The selected User System does not support new user registration."
-msgstr ""
+msgstr "Избраната система за управление на потребители не поддържа регистрация."
 
 #: ../core/data/TWiki/WebTopicViewTemplate.txt:4
 msgid "The topic %1 you are trying to access does not exist, yet."
-msgstr ""
+msgstr "Страницата, която търсите все още не съществува."
 
 #: ../core/templates/messages.tmpl:337
 msgid "The topic is in an old format"
-msgstr ""
+msgstr "Страницата е в стар формат"
 
 #: ../core/templates/messages.tmpl:227
 msgid "The two passwords you entered do not match."
-msgstr ""
+msgstr "Паролите, които въведохте не съвпадат."
 
 #: ../core/templates/messages.tmpl:556
 msgid "The user %1 has already been activated, and should be able to log in."
@@ -3323,7 +3323,7 @@ msgstr "Вие *не* бяхте регистриран."
 
 #: ../core/templates/messages.tmpl:377
 msgid "You may be able to get your TWiki administrator to change the settings if they are inappropriate for your environment."
-msgstr ""
+msgstr "Може да успеете да накарате TWiki-администратора да промени настройките ако са неподходящи за вашата среда."
 
 #: ../core/templates/messages.tmpl:558
 msgid "You may have clicked a registration verification link that you had already visited."
@@ -3383,7 +3383,7 @@ msgstr "Вашата лична страница за профил в TWiki %1 �
 
 #: ../core/templates/messages.tmpl:195
 msgid "Your registered e-mail address(es) are updated to: %1."
-msgstr ""
+msgstr "Вашият регистриран адрес за е-поща е обновен на %1."
 
 #: ../PatternSkin/templates/edit.pattern.tmpl:71
 #: ../core/templates/edit.tmpl:48
@@ -3392,15 +3392,15 @@ msgstr "Вашият подпис за copy/paste:"
 
 #: ../core/templates/messages.tmpl:186
 msgid "Your system may not support changing passwords through TWiki. Check with your TWiki administrator."
-msgstr ""
+msgstr "Вашата система може би не поддържа промяна на паролата в TWiki. Питайте TWiki-администратора."
 
 #: ../core/templates/messages.tmpl:11
 msgid "Your user name has been removed from the Authentication System."
-msgstr ""
+msgstr "Вашето потребителско име бе премахнато от ситемата за влизане(автентикация)"
 
 #: ../core/templates/messages.tmpl:13
 msgid "Your user topic has not been renamed. Please e-mail %1 to request this."
-msgstr ""
+msgstr "Вашата лична страница не бе преименувана.Моля, пишете на %1 за да заявите промяната."
 
 #: ../core/templates/messages.tmpl:30
 msgid "[[%1][%2 home]]"
