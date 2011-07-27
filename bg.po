@@ -3408,7 +3408,7 @@ msgstr "[[%1][%2 начало]]"
 
 #: ../core/templates/messages.tmpl:22
 msgid "[[%1][%2 home]] to start working on the new web"
-msgstr "[[%1][%2 home]], за да работите по новия  раздел"
+msgstr "[[%1][%2 начало]], за да работите по новия  раздел"
 
 #: ../core/templates/messages.tmpl:339
 msgid "[[%1][Debug topic text]]."
@@ -3432,7 +3432,7 @@ msgstr "за !BookView"
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:58
 msgid "about regular expression search"
-msgstr "за търсенето с регулярни изрази"
+msgstr "за търсенето с помощта на регулярни изрази"
 
 #: ../core/lib/TWiki/Access.pm:188
 msgid "access denied on root"
@@ -3621,7 +3621,8 @@ msgstr "title='Редактиране текста на тази страниц�
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:76
 msgid "title='PDF version of this topic'>&PDF version"
-msgstr "title='PDF-версия на тази страница' accesskey='p'>PDF-версия"
+
+msgstr "title='PDF-версия на тази страница'>PDF-версия"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:66
 #: ../core/templates/viewtopicactionbuttons.tmpl:23
