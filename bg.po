@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-28 00:15+0200\n"
-"Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
+"PO-Revision-Date: 2011-07-28 14:38+0200\n"
+"Last-Translator: Krassimir Berov <k.berov@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -554,7 +554,7 @@ msgstr "Администрация"
 
 #: ../core/templates/login.sudo.tmpl:3
 msgid "Admin TWiki User Authentication"
-msgstr ""
+msgstr "Автентикация за TWiki-администратора"
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:3
 msgid "Advanced Search"
@@ -956,7 +956,7 @@ msgstr "Потвърдете преименуването или премест�
 
 #: ../core/templates/messages.tmpl:39
 msgid "Confirm your changes using TWiki's [[%1][topic history comparison tool (diff)]]."
-msgstr ""
+msgstr "Птвтрдете промените си като използвате [[%1][инструмент за сравняване на промените (diff)]] на TWiki."
 
 #: ../ClassicSkin/templates/oopsleaseconflict.classic.tmpl:5
 #: ../core/templates/oopsleaseconflict.tmpl:6
@@ -1604,7 +1604,7 @@ msgstr "Индекс"
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:115
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:64
 msgid "Info"
-msgstr ""
+msgstr "Информация"
 
 #: ../core/templates/messages.tmpl:243
 msgid "Internal error when sending email to %1."
@@ -2509,7 +2509,7 @@ msgstr "Последователно"
 
 #: ../core/lib/TWiki/Form/Checkbox.pm:54
 msgid "Set all"
-msgstr ""
+msgstr "Отбелязване на всички"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinTopicMenu.txt:31
 #: ../core/templates/oopsmore.tmpl:59
@@ -2539,7 +2539,7 @@ msgstr "Смали кутийката за редакция"
 
 #: ../core/templates/oopsmore.tmpl:98
 msgid "Side by side"
-msgstr ""
+msgstr "Едно до друго"
 
 #: ../core/data/TWiki/WebTopicViewTemplate.txt:9
 msgid "Similar topics in this web (if any):"
@@ -2551,7 +2551,7 @@ msgstr "Просто търсене"
 
 #: ../TopMenuSkin/data/TWiki/TopMenuSkinHomeMenu.txt:12
 msgid "Site map"
-msgstr ""
+msgstr "Карта на сайта"
 
 #: ../core/data/Main/TWikiPreferences.txt:4
 msgid "Site-level preferences are located in %1, however this %2 prefs topic has override priority and should be used for local customisations. This allows for easier upgrades as you don't need to worry about the shipped preferences clobbering yours. It's easier to keep a handle on if you only copy over the settings you actually change."
@@ -2623,7 +2623,7 @@ msgstr ""
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:342
 #: ../core/templates/messages.tmpl:313
 msgid "Submit"
-msgstr ""
+msgstr "Изпращане"
 
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:142
 #: ../core/templates/registernotify.tmpl:20
@@ -2637,11 +2637,11 @@ msgstr ""
 #: ../MailerContrib/templates/mailnotify.tmpl:79
 #: ../MailerContrib/templates/newsletter.tmpl:20
 msgid "Subscribe / Unsubscribe in:"
-msgstr ""
+msgstr "Абонамент за/ Отписване от:"
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:64
 msgid "Summaries"
-msgstr ""
+msgstr "Обобщения"
 
 #: ../PatternSkin/templates/twiki.pattern.tmpl:76
 msgid "Switch to monotype or propotional font"
@@ -2654,12 +2654,12 @@ msgstr "СЪВЕТ: за да търсите за страници, съдърж
 
 #: ../core/templates/login.tmpl:3
 msgid "TWiki User Authentication"
-msgstr ""
+msgstr "Автентикация на потребител"
 
 #: ../ClassicSkin/templates/mailresetpassword.classic.tmpl:3
 #: ../core/templates/mailresetpassword.tmpl:3
 msgid "TWiki password reset for %1"
-msgstr ""
+msgstr "Паролата е нулирана за %1"
 
 #: ../core/templates/oopschangelanguage.tmpl:12
 msgid "TWiki's user interface is available in several languages. If you want to change the language for this session, choose one of the following and hit \"Change language\". Otherwise, follow the \"Cancel\" link on the bottom of the page to return to the previous topic."
@@ -2681,7 +2681,7 @@ msgstr "Тялото на текста"
 #: ../core/templates/messages.tmpl:162
 #: ../core/templates/messages.tmpl:200
 msgid "Thank you for registering"
-msgstr ""
+msgstr "Благодарим, че се регистрирахте"
 
 #: ../core/templates/registernotify.tmpl:8
 msgid "Thank you for registering in the %1 collaboration platform. Please save this e-mail for future reference."
@@ -2724,7 +2724,7 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:438
 msgid "The =%1= script can only be called with POST method."
-msgstr ""
+msgstr "Скриптът =%1= може да бъде извикан само чрез POST метод(заявка)."
 
 #: ../core/templates/messages.tmpl:155
 msgid "The Administrator has disabled new user registration."
@@ -2776,7 +2776,7 @@ msgstr "Формата трябва да е дефинирана в страни
 
 #: ../core/templates/messages.tmpl:469
 msgid "The lease on this topic expired %1 ago."
-msgstr ""
+msgstr "Запазването за редакция на тази страница изтече преди %1."
 
 #: ../core/templates/moveattachment.tmpl:16
 msgid "The new topic chosen must already exist."
@@ -2812,11 +2812,11 @@ msgstr "Паролите, които въведохте не съвпадат."
 
 #: ../core/templates/messages.tmpl:556
 msgid "The user %1 has already been activated, and should be able to log in."
-msgstr ""
+msgstr "Потребителят %1 вече е активиран, и би трябвало да може да влезе в системата."
 
 #: ../core/templates/messages.tmpl:408
 msgid "There are problems with renaming this web:"
-msgstr ""
+msgstr "Има проблеми с преименуването на този раздел:"
 
 #: ../core/templates/messages.tmpl:234
 msgid "There has been a problem adding your user id to the Password system."
@@ -2836,7 +2836,7 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:330
 msgid "This could be for several reasons:"
-msgstr ""
+msgstr "Това може да се случи по няколко причини"
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangeEmailAddress.txt:5
 msgid "This form is used to change your registered e-mail addresses. Your registered e-mails are used by TWiki for sending you e-mails, include notifications of password changes. The addresses you register via this form are kept secret and will *not* be published anywhere on this site."
@@ -2869,11 +2869,11 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:345
 msgid "This requires the form definition to be present."
-msgstr ""
+msgstr "Трябва да имате дефиниция за форма"
 
 #: ../core/templates/messages.tmpl:289
 msgid "This site requires at least %1 character passwords"
-msgstr ""
+msgstr "минималната дължина на паролата за този сайт е %1"
 
 #: ../core/data/TWiki/WebTopicViewTemplate.txt:7
 msgid "This topic has moved to %1."
@@ -2912,12 +2912,12 @@ msgstr "За да се регистрирате, е достатъчно да п
 
 #: ../core/templates/messages.tmpl:568
 msgid "To save your changes, press the browser back button, copy all content into the clipboard, cancel edit, edit again, and replace content with clipboard content. Whew ... nothing lost!"
-msgstr ""
+msgstr "За да запишете промените, щракнете върху бутона \"Назад\" във браузъра, копирайте цялото съдържание, откажете редакцията, редактирайте наново и заместете съдържанието с копираното. Уф... нищо не е загубено!"
 
 #: ../ClassicSkin/templates/oopsleaseconflict.classic.tmpl:18
 #: ../core/templates/oopsleaseconflict.tmpl:14
 msgid "To see if %1 has finished editing yet, click "
-msgstr ""
+msgstr "За да видите дали %1 е приключил с редакцията, щракнете "
 
 #: ../core/templates/renamebase.tmpl:29
 #: ../core/templates/renameconfirm.tmpl:14
@@ -3412,7 +3412,7 @@ msgstr "[[%1][%2 начало]], за да работите по новия  р�
 
 #: ../core/templates/messages.tmpl:339
 msgid "[[%1][Debug topic text]]."
-msgstr ""
+msgstr "[[%1][дебугване на текста в страницата]]."
 
 #: ../core/templates/settings.tmpl:28
 msgid "[multiple of 3 spaces] * [space] Set [space] VARIABLENAME [space] = [value]"
@@ -3583,7 +3583,7 @@ msgstr "(сканира връзките във всички раздели)"
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:88
 #: ../core/templates/viewtopicactionbuttons.tmpl:9
 msgid "title='%IF{ "
-msgstr ""
+msgstr "title='%IF{ "
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:54
 msgid "title='Attach an image or document to this topic' accesskey='a'"
@@ -3621,7 +3621,6 @@ msgstr "title='Редактиране текста на тази страниц�
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:76
 msgid "title='PDF version of this topic'>&PDF version"
-
 msgstr "title='PDF-версия на тази страница'>PDF-версия"
 
 #: ../TWikiNetSkin/templates/viewtopicactionbuttons.twikinet.tmpl:66
