@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-28 14:38+0200\n"
-"Last-Translator: Krassimir Berov <k.berov@gmail.com>\n"
+"PO-Revision-Date: 2011-07-29 00:12+0200\n"
+"Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -956,7 +956,7 @@ msgstr "Потвърдете преименуването или премест�
 
 #: ../core/templates/messages.tmpl:39
 msgid "Confirm your changes using TWiki's [[%1][topic history comparison tool (diff)]]."
-msgstr "Птвтрдете промените си като използвате [[%1][инструмент за сравняване на промените (diff)]] на TWiki."
+msgstr "Потвърдете промените си като използвате [[%1][инструмент за сравняване на промените (diff)]] на TWiki."
 
 #: ../ClassicSkin/templates/oopsleaseconflict.classic.tmpl:5
 #: ../core/templates/oopsleaseconflict.tmpl:6
@@ -1464,11 +1464,11 @@ msgstr "Как да активирате вашата %1 регистрация"
 
 #: ../core/templates/registernotifyadminfail.tmpl:12
 msgid "However, confirmation e-mail to %2 failed, indicating probable fraudulent registration.  The %1 user could not be removed automatically."
-msgstr ""
+msgstr "Писмото за потвърждение до %2 се провали, което означава вероятно измамническа регистрация. Потребителят %1 не бе премахнат автоматично."
 
 #: ../core/templates/registernotifyadminfailrem.tmpl:12
 msgid "However, confirmation e-mail to %2 failed, indicating probable fraudulent registration.  The %1 was removed automatically, however you must remove the user's topic manually."
-msgstr ""
+msgstr "Писмото за потвърждение до %2 се провали, което означава вероятно измамническа регистрация. Потребителят %1 бе премахнат автоматично. Вие трябва да премахнете страницата на потребителя ръчно."
 
 #: ../core/templates/login.tmpl:65
 msgid "I forgot my password"
@@ -1620,7 +1620,7 @@ msgstr "Невалиден код за активиране"
 
 #: ../core/templates/oopsinvalidtoken.tmpl:6
 msgid "Invalid Crypt Token"
-msgstr ""
+msgstr "Невалиден ключ за криптиране"
 
 #: ../core/templates/messages.tmpl:294
 msgid "Invalid e-mail address"
@@ -2050,7 +2050,7 @@ msgstr "Моля, въведете вашето потребителско им�
 #: ../core/templates/messages.tmpl:85
 #: ../core/templates/messages.tmpl:91
 msgid "Please go _back_ in your browser and try a new name."
-msgstr ""
+msgstr "Моля, върнете се _назад_  с помощта на браузъра и опитайте с ново име."
 
 #: ../core/templates/messages.tmpl:383
 msgid "Please go back in your browser and check again."
@@ -2084,7 +2084,7 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:392
 msgid "Please try small size files or contact Administrator."
-msgstr ""
+msgstr "Моля опитайте с файлове с по-малък размер или се свържете с администратора."
 
 #: ../ClassicSkin/templates/mailresetpassword.classic.tmpl:12
 #: ../core/templates/mailresetpassword.tmpl:12
@@ -2153,7 +2153,7 @@ msgstr ""
 
 #: ../PatternSkin/templates/edit.pattern.tmpl:30
 msgid "Read new revision help text in new window"
-msgstr ""
+msgstr "Прочетете помощния текст за нова версия в нов прозорец."
 
 #: ../TipsContrib/data/TWiki/TWikiTipsOfTheDayInclude.txt:12
 msgid "Read on"
@@ -2564,15 +2564,15 @@ msgstr "Размер"
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:132
 #: ../core/templates/registernotify.tmpl:15
 msgid "Some add schedule information and vacation notice."
-msgstr ""
+msgstr "Някои добавят информация за графика си и предизвестие за почивка."
 
 #: ../core/templates/messages.tmpl:375
 msgid "Some characters such as =&#126;=, =$=, =@=, =%= are removed"
-msgstr ""
+msgstr "Някои символи като =&#126;=, =$=, =@=, =%= са премахнати."
 
 #: ../core/templates/messages.tmpl:358
 msgid "Some files have been renamed on upload:"
-msgstr ""
+msgstr "Някои файлове бяха преименувани при качването:"
 
 #: ../core/templates/messages.tmpl:308
 msgid "Some mail tools have an error that causes them to send the same request twice when you click on a link. It you did this, it is possible that you actually *have* registered successfully."
@@ -2585,7 +2585,7 @@ msgstr ""
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:5
 msgid "Sorry, Registration has been temporarily disabled"
-msgstr ""
+msgstr "Извинете, регистрацията е временно изключена."
 
 #: ../TWikiUserMappingContrib/data/TWiki/BulkRegistration.txt:83
 #: ../TWikiUserMappingContrib/data/TWiki/BulkResetPassword.txt:17
@@ -2631,7 +2631,7 @@ msgstr "Изпращане"
 #: ../core/templates/registernotifyadminfail.tmpl:14
 #: ../core/templates/registernotifyadminfailrem.tmpl:14
 msgid "Submitted content:"
-msgstr ""
+msgstr "Изпратено съдържание:"
 
 #: ../MailerContrib/templates/mailnotify.tmpl:47
 #: ../MailerContrib/templates/mailnotify.tmpl:79
@@ -2645,7 +2645,7 @@ msgstr "Обобщения"
 
 #: ../PatternSkin/templates/twiki.pattern.tmpl:76
 msgid "Switch to monotype or propotional font"
-msgstr ""
+msgstr "Превключване към монотипен или пропорционален шрифт."
 
 #: ../core/data/TWiki/WebSearch.txt:25
 #: ../core/data/TWiki/WebSearchAdvanced.txt:32
@@ -2720,7 +2720,7 @@ msgstr "Разделът %1 не съществува"
 #: ../core/data/_default/WebAtom.txt:3
 #: ../core/data/_default/WebRss.txt:5
 msgid "The %1 web of TWiki. TWiki is a Web-Based Collaboration Platform for the Enterprise."
-msgstr ""
+msgstr "Разделът %1 на TWiki. TWiki е Уеб-базирана платформа за сътрудничество, подходяща за бизнеса."
 
 #: ../core/templates/messages.tmpl:438
 msgid "The =%1= script can only be called with POST method."
@@ -2851,7 +2851,7 @@ msgstr ""
 #: ../MailerContrib/templates/mailnotify.tmpl:7
 #: ../MailerContrib/templates/mailnotify.tmpl:71
 msgid "This is an automated e-mail from %1."
-msgstr ""
+msgstr "Това е автоматично изпратено писмо от %1."
 
 #: ../core/templates/registernotifyadmin.tmpl:8
 #: ../core/templates/registernotifyadminfail.tmpl:8
@@ -3275,7 +3275,7 @@ msgstr "Трябва да промените паролата си задълж�
 
 #: ../core/templates/messages.tmpl:549
 msgid "You are trying to %1 an attachment that does not exist."
-msgstr ""
+msgstr "Опитвате се да %1 прикачен файл, който не съществува."
 
 #: ../core/templates/messages.tmpl:537
 msgid "You are trying to create a topic from a template that does not exist."
@@ -3358,11 +3358,11 @@ msgstr "Вашето %1.LoginName"
 
 #: ../core/templates/messages.tmpl:202
 msgid "Your activation code has been sent to %1.  Either click on the link in your e-mail or enter the code in the box below to activate your membership. (This code is of the form \"YourName.xxxxxxxxxx\")"
-msgstr ""
+msgstr "Кодът за активиране бе изпратен до %1. Можете да щракнете върху връзката в писмото или да въведете кода в кутийката долу, за да активирате Вашето членство. (Кодът е във формат \"YourName.xxxxxxxxxx\")"
 
 #: ../core/templates/oopslanguagechanged.tmpl:16
 msgid "Your language will be changed to %1 from the next screen. You will be redirected to there right now. If you aren't, [[%2][click to proceed]]."
-msgstr ""
+msgstr "Предпочитаният от вас език ще бъде %1 като посетите следващия екран. Сега ще бъдете пренасочени натам. Ако не сте [[%2][щракнете тук, за да продължите]]."
 
 #: ../ClassicSkin/templates/mailresetpassword.classic.tmpl:10
 #: ../core/templates/mailresetpassword.tmpl:10
@@ -3371,11 +3371,11 @@ msgstr "Вашата парола бе променена на %1."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:129
 msgid "Your personal %1 topic is located at %2. You can customize it as you like:"
-msgstr ""
+msgstr "Личната Ви страница %1 се намира на %2. Можете да я променяте както пожелаете:"
 
 #: ../core/templates/registernotify.tmpl:12
 msgid "Your personal %1 user profile page is located at %2. You can customize it as you like:"
-msgstr ""
+msgstr "Личната Ви страница %1 се намира на %2. Можете да я променяте както пожелаете:"
 
 #: ../core/templates/messages.tmpl:163
 msgid "Your personal TWiki user profile page %1 has been created"
