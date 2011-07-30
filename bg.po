@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-30 12:30+0200\n"
-"Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
+"PO-Revision-Date: 2011-07-30 13:00+0200\n"
+"Last-Translator: Теодора Берова <tberova@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1636,7 +1636,7 @@ msgstr "Обикновено е най-добре да изберете <a targe
 
 #: ../core/templates/renameweb.tmpl:17
 msgid "It's usually best to choose a short name for the new web, as it is easier to link to them later on. Characters not allowed in web names, such as spaces will automatically be removed."
-msgstr "Най-добре би било да изберете късо име за новия раздел, за по-лесно създаване на връзки към него. Символи, които не са разрешени, като паузи, ще бъдат автоматично премахнати."
+msgstr "Най-добре би било да изберете късо име за новия раздел за по-лесно създаване на връзки към него. Символи, които не са разрешени, като паузи, ще бъдат автоматично премахнати."
 
 #: ../PatternSkin/data/TWiki/WebLeftBarSearch.txt:2
 #: ../PatternSkin/data/TWiki/WebTopBar.txt:7
@@ -3699,60 +3699,44 @@ msgstr "*трябва* да имате поне един валиден e-mail-�
 
 #~ msgid "%1 to create another web"
 #~ msgstr "%1, за да създадете нов раздел"
-
 #~ msgid "&Edit text"
 #~ msgstr "Редактиране на текста"
-
 #~ msgid "(optional)"
 #~ msgstr "(незадължително)"
-
 #~ msgid ""
 #~ "A more extensive changes list is available via [[%1][Recent Changes]]."
 #~ msgstr ""
 #~ "По-подробен списък с промените ще намерите на страница [[%1][Последни "
 #~ "промени]]."
-
 #~ msgid "Available Information"
 #~ msgstr "Налична информация"
-
 #~ msgid "Edit personal data"
 #~ msgstr "Редактиране на лични данни"
-
 #~ msgid "Edit text"
 #~ msgstr "Редактиране на текст"
-
 #~ msgid "Edit this topic text"
 #~ msgstr "Редактиране на текста в тази страница"
-
 #~ msgid ""
 #~ "However, the filename has been changed from %1 to %2. Please make a note "
 #~ "of it."
 #~ msgstr "Моля забележете, че името на файла бе променено от %1 на %2."
-
 #~ msgid "Organisation name:"
 #~ msgstr "Име на организацията"
-
 #~ msgid "Recently Deleted Topics"
 #~ msgstr "Последно изтрити страници"
-
 #~ msgid "Your password:"
 #~ msgstr "Вашата парола:"
-
 #~ msgid "title='Printable version of this topic' accesskey='p'"
 #~ msgstr ""
 #~ "title='Версия за печат на тази страница' accesskey='p'"
-
 #~ msgid "title='Raw Edit this topic text' accesskey='w'>Ra&w edit"
 #~ msgstr ""
 #~ "title='Редактиране суровия текст на тази страница' "
 #~ "accesskey='w'>Редакция  суров текст"
-
 #~ msgid "or %1"
 #~ msgstr "или %1"
-
 #~ msgid "&WYSIWYG"
 #~ msgstr "&WYSIWYG"
-
 #~ msgid ""
 #~ "Please see <a target='TWikiVariables' onclick=\"return launchWindow('%"
 #~ "1','FileAttachment')\" href='' rel='nofollow'>FileAttachment</a> for more "
@@ -3761,6 +3745,6 @@ msgstr "*трябва* да имате поне един валиден e-mail-�
 #~ "Моля вижте <a target='TWikiVariables' onclick=\"return launchWindow('%"
 #~ "1','FileAttachment')\" href='' rel='nofollow'>FileAttachment</a> за "
 #~ "повече информация относно прикрепване на файлове."
-
 #~ msgid "value='Checkpoint' accesskey='k'"
 #~ msgstr "value='Прилагане' accesskey='k'"
+
