@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-30 13:00+0200\n"
+"PO-Revision-Date: 2011-07-30 23:45+0200\n"
 "Last-Translator: Теодора Берова <tberova@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -2058,7 +2058,7 @@ msgstr "Моля върнете се назад с браузъра и пров�
 
 #: ../core/templates/messages.tmpl:96
 msgid "Please go back in your browser and choose a topic name that is a %1.WikiWord or check the allow non-Wiki Word box"
-msgstr ""
+msgstr "Моля, върнете се в браузъра си и изберете страницата %1.WikiWord, или отбележете, че разрешавате не-Wiki думи."
 
 #: ../core/templates/messages.tmpl:108
 #: ../core/templates/messages.tmpl:112
@@ -2080,7 +2080,7 @@ msgstr "Моля, върнете се назад с браузъра и опит
 
 #: ../core/templates/messages.tmpl:53
 msgid "Please make sure you spelled the %1 correctly and try again. If you get stuck, please mail %2."
-msgstr ""
+msgstr "Моля, уверете се, че изписвате правилно %1, и опитайте отново. Ако не успеете, пишете на %2."
 
 #: ../core/templates/messages.tmpl:392
 msgid "Please try small size files or contact Administrator."
@@ -2119,7 +2119,7 @@ msgstr "Свойства"
 
 #: ../core/data/Main/TWikiPreferences.txt:7
 msgid "Quick edit of existing preferences (edit the topic text to set new preferences)"
-msgstr ""
+msgstr "Бързо редактиране на текущите предпочитания (редактирайте текста на страницата, за да зададете нови предпочитания)"
 
 #: ../EditTablePlugin/data/TWiki/EditTablePlugin.txt:181
 msgid "Quiet save"
