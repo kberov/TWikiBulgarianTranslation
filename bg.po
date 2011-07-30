@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-29 00:12+0200\n"
+"PO-Revision-Date: 2011-07-30 12:30+0200\n"
 "Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -1507,11 +1507,11 @@ msgstr "Ако въвеждате различно име, уверете се �
 
 #: ../core/templates/registernotify.tmpl:25
 msgid "If you got this e-mail by mistake: Somebody (%1) registered at the %2 site using your mail address %3. Contact %4 if this is in error."
-msgstr ""
+msgstr "Ако сте получили това писмо по грешка: Някой (%1) се регистрира на сайта %2 с вашият електронен пощенски адрес %3. Свържете се с %4 ако това е грешка."
 
 #: ../core/templates/registerconfirm.tmpl:14
 msgid "If you got this e-mail by mistake: Somebody (%1, %5) registered at the %2 site using your mail address %3. Contact %4 if this is in error."
-msgstr ""
+msgstr "Ако сте получили това писмо по грешка: Някой (%1, %5) се регистрира на сайта %2 с вашият електронен пощенски адрес %3. Свържете се с %4 ако това е грешка."
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:363
 msgid "If you have any questions about registration, send an e-mail to %1."
@@ -1628,7 +1628,7 @@ msgstr "невалиден адрес за електронна поща"
 
 #: ../core/templates/messages.tmpl:463
 msgid "It is probably OK to go ahead and edit - unless you intend to change data in a form attached to the topic. If %1 actually _does_ save the topic while you are editing, your changes will be merged, and nothing will be lost. Form data cannot easily be merged though, so in this case you are recommended to check with %1 first."
-msgstr ""
+msgstr "Може би няма проблем да редактирате, освен ако възнамерявате да променяте данни във форма прикачена към страницата. Ако %1 запише страницата докато Вие редактирате, Вашите промени ще бъдат обединени с другите и нищо няма да се загуби. Данните от форми обаче не могат лесно да бъдат обединени. В този случай е препоръчително да се свържете с %1."
 
 #: ../core/templates/twiki.tmpl:9
 msgid "It's usually best to choose a <a target='WikiWord' class='twikiPopUp' href='%1' rel='nofollow'>WikiWord</a> for the new topic name, otherwise automatic linking may not work. Characters not allowed in topic names, such as spaces will automatically be removed."
@@ -1636,7 +1636,7 @@ msgstr "Обикновено е най-добре да изберете <a targe
 
 #: ../core/templates/renameweb.tmpl:17
 msgid "It's usually best to choose a short name for the new web, as it is easier to link to them later on. Characters not allowed in web names, such as spaces will automatically be removed."
-msgstr ""
+msgstr "Най-добре би било да изберете късо име за новия раздел, за по-лесно създаване на връзки към него. Символи, които не са разрешени, като паузи, ще бъдат автоматично премахнати."
 
 #: ../PatternSkin/data/TWiki/WebLeftBarSearch.txt:2
 #: ../PatternSkin/data/TWiki/WebTopBar.txt:7
@@ -1878,7 +1878,7 @@ msgstr "Не се препоръчва, когато изтривате стра
 
 #: ../core/templates/moveattachment.tmpl:31
 msgid "Note that any URLs that refer to the attachment will be broken after this move."
-msgstr ""
+msgstr "забележете, че всички връзки, към прикаченият файл, ще бъдат счупени след преместването."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:138
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:13
@@ -1944,7 +1944,7 @@ msgstr "Само членовете на %1 могат да извършват �
 
 #: ../core/templates/login.tmpl:8
 msgid "Oops: we could not recognize you. Try again or [[%1][reset your password]]."
-msgstr ""
+msgstr "Опаа: не Ви разпознахме. Опитайте отново или  [[%1][променете паролата си]]."
 
 #: ../ClassicSkin/templates/preview.classic.tmpl:10
 msgid "Opens page in new window"
@@ -2531,7 +2531,7 @@ msgstr "Последните <a href='%2'>50</a>, <a href='%3' rel='nofollow'>10
 
 #: ../TWikiUserMappingContrib/data/TWiki/NewUserTemplate.txt:71
 msgid "Show tool-tip topic info on mouse-over of %1 links, on or off:"
-msgstr ""
+msgstr "Да се показват подсказки при преместване на мишката върху връзките към %1, да или не:"
 
 #: ../PatternSkin/templates/twiki.pattern.tmpl:76
 msgid "Shrink edit box"
@@ -2593,7 +2593,7 @@ msgstr "Извинете, регистрацията е временно изк�
 #: ../TWikiUserMappingContrib/data/TWiki/ChangePassword.txt:17
 #: ../TWikiUserMappingContrib/data/TWiki/ResetPassword.txt:13
 msgid "Sorry, the password system is currently read only, please contact %1"
-msgstr ""
+msgstr "За съжаление системата за пароли в момента е в режим само за четене. Моля свържете се с %1."
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:46
 msgid "Sort results by:"
@@ -2618,7 +2618,7 @@ msgstr "Статистика"
 
 #: ../TWikiUserMappingContrib/data/Main/UserProfileHeader.txt:112
 msgid "Status update: Make a sentence, such as: =is out of office="
-msgstr ""
+msgstr "Обновяване на статуса: Напишете нещо като: =извън офиса="
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:342
 #: ../core/templates/messages.tmpl:313
@@ -2701,7 +2701,7 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:271
 msgid "The %1 field must match the {LoginNameFilterIn} filter for this site"
-msgstr ""
+msgstr "Полето %1 трябва да съвпада с филтъра {LoginNameFilterIn}за този сайт."
 
 #: ../core/templates/messages.tmpl:76
 msgid "The %1 topic already exists"
@@ -2756,7 +2756,7 @@ msgstr "Записът за потребител %1 липсваше в сист
 
 #: ../core/templates/messages.tmpl:357
 msgid "The files have been uploaded and attached properly to the %1 topic."
-msgstr ""
+msgstr "Файловете бяха качени и прикачени успешно към тази страница."
 
 #: ../core/templates/messages.tmpl:412
 msgid "The following topics are locked for edit, and cannot be moved:"
