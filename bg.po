@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-30 23:45+0200\n"
-"Last-Translator: Теодора Берова <tberova@gmail.com>\n"
+"PO-Revision-Date: 2011-07-31 11:41+0200\n"
+"Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2736,7 +2736,7 @@ msgstr "Кодът за активиране %1 е невалиден"
 
 #: ../core/templates/moveattachment.tmpl:29
 msgid "The attachment and any history will be moved to the new topic."
-msgstr ""
+msgstr "Прикаченият файл и цялата история ще бъдат преместени в новата страница."
 
 #: ../core/templates/messages.tmpl:471
 msgid "The chances are good that %1 has simply navigated away from the edit page without saving."
@@ -2760,11 +2760,11 @@ msgstr "Файловете бяха качени и прикачени успе�
 
 #: ../core/templates/messages.tmpl:412
 msgid "The following topics are locked for edit, and cannot be moved:"
-msgstr ""
+msgstr "Следните страници са заключени и не могат да бъдат преместени:"
 
 #: ../core/templates/messages.tmpl:418
 msgid "The following topics refer to topics in this web, but are being edited:"
-msgstr ""
+msgstr "Следните страници имат връзки към други страници в този раздел но те в момента биват редактирани:"
 
 #: ../core/templates/messages.tmpl:415
 msgid "The following topics refer to topics in this web, but you are denied access to them:"
@@ -2788,7 +2788,7 @@ msgstr "Новият раздел бе създаден"
 
 #: ../core/templates/messages.tmpl:106
 msgid "The password you entered in the *old password* field is incorrect."
-msgstr ""
+msgstr "Паролата, която въведохте в полето *стара парола* е неправилно."
 
 #: ../core/templates/messages.tmpl:322
 msgid "The required field %1 was not filled in."
@@ -2824,11 +2824,11 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:340
 msgid "There should be a line that includes %1, look for %2 (or %3)"
-msgstr ""
+msgstr "Би трябвало да има ред, който включва %1, потърсете %2 (или %3)"
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:6
 msgid "This TWiki does _not_ support new User Registration"
-msgstr ""
+msgstr "Това TWiki _не поддържа_ нови регистрации на потребители"
 
 #: ../core/templates/messages.tmpl:347
 msgid "This can be automatically upgraded by:"
@@ -3004,7 +3004,7 @@ msgstr "Страници на раздел"
 
 #: ../core/templates/renamewebbase.tmpl:29
 msgid "Topics which are currently being edited by other users in the %1 Web:"
-msgstr ""
+msgstr "Страници в раздел %1, които в момента се редактират от други потребители:"
 
 #: ../core/templates/renamewebbase.tmpl:32
 msgid "Topics which refer to this web and are are currently being edited by other users:"
@@ -3012,7 +3012,7 @@ msgstr ""
 
 #: ../core/templates/renamewebbase.tmpl:35
 msgid "Topics which refer to this web that you do not have permission to change:"
-msgstr ""
+msgstr "Нямате право да променяте този раздел. Страници с връзки към него:"
 
 #: ../core/data/TWiki/WebSearchAdvanced.txt:65
 msgid "Total matches"
@@ -3279,11 +3279,11 @@ msgstr "Опитвате се да %1 прикачен файл, който не
 
 #: ../core/templates/messages.tmpl:537
 msgid "You are trying to create a topic from a template that does not exist."
-msgstr ""
+msgstr "Опитвате се да създадете страница от шаблон, който не съществува."
 
 #: ../core/templates/messages.tmpl:532
 msgid "You are trying to perform an action on a topic that does not exist (action '%1')."
-msgstr ""
+msgstr "Опитвате се да правите нещо със страница, която не съществува (действие: %1)."
 
 #: ../core/templates/messages.tmpl:543
 msgid "You are trying to rename a topic that does not exist."
@@ -3312,7 +3312,7 @@ msgstr ""
 
 #: ../core/templates/messages.tmpl:260
 msgid "You cannot register twice, the name %1 is already registered."
-msgstr ""
+msgstr "Не можете да се регистрирате два пъти. Името %1 е регистрирано вече."
 
 #: ../core/templates/messages.tmpl:150
 #: ../core/templates/messages.tmpl:159
@@ -3327,11 +3327,11 @@ msgstr "Може да успеете да накарате TWiki-админис�
 
 #: ../core/templates/messages.tmpl:558
 msgid "You may have clicked a registration verification link that you had already visited."
-msgstr ""
+msgstr "Може би сте посетили вече тази страница за верификация на регистрацията."
 
 #: ../core/templates/messages.tmpl:178
 msgid "You may need to close your browser to make this change take effect."
-msgstr ""
+msgstr "Може да се наложи да рестартирате браузъра си, за да влезе тази промяна в сила."
 
 #: ../core/templates/registerconfirm.tmpl:11
 msgid "You now need to verify your e-mail address. You can do so by entering %1 in the form presented to you when this e-mail was sent, or by visiting %2"
@@ -3339,7 +3339,7 @@ msgstr ""
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangeEmailAddress.txt:7
 msgid "You really ought to register a valid e-mail address. If TWiki can't find a registered e-mail for you in the secret database, it will look in your user topic for a line like this:"
-msgstr ""
+msgstr "Наистина трябва да се регистрирате с валиден адрес за електронна поща. Ако TWiki не намери регистриран адрес в тайната база от данни, ще търси в личната Ви страница за ред като този:"
 
 #: ../ClassicSkin/templates/oopsmore.classic.tmpl:53
 #: ../core/templates/oopsmore.tmpl:106
@@ -3348,7 +3348,7 @@ msgstr "Ще имате възможност да прегледате стра�
 
 #: ../core/templates/messages.tmpl:352
 msgid "You will probably have to ask your administrator, %1, to do this."
-msgstr ""
+msgstr "Може би трябва да помолите администратора %1 да направи това."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangeEmailAddress.txt:33
 #: ../TWikiUserMappingContrib/data/TWiki/ChangePassword.txt:26
@@ -3699,44 +3699,60 @@ msgstr "*трябва* да имате поне един валиден e-mail-�
 
 #~ msgid "%1 to create another web"
 #~ msgstr "%1, за да създадете нов раздел"
+
 #~ msgid "&Edit text"
 #~ msgstr "Редактиране на текста"
+
 #~ msgid "(optional)"
 #~ msgstr "(незадължително)"
+
 #~ msgid ""
 #~ "A more extensive changes list is available via [[%1][Recent Changes]]."
 #~ msgstr ""
 #~ "По-подробен списък с промените ще намерите на страница [[%1][Последни "
 #~ "промени]]."
+
 #~ msgid "Available Information"
 #~ msgstr "Налична информация"
+
 #~ msgid "Edit personal data"
 #~ msgstr "Редактиране на лични данни"
+
 #~ msgid "Edit text"
 #~ msgstr "Редактиране на текст"
+
 #~ msgid "Edit this topic text"
 #~ msgstr "Редактиране на текста в тази страница"
+
 #~ msgid ""
 #~ "However, the filename has been changed from %1 to %2. Please make a note "
 #~ "of it."
 #~ msgstr "Моля забележете, че името на файла бе променено от %1 на %2."
+
 #~ msgid "Organisation name:"
 #~ msgstr "Име на организацията"
+
 #~ msgid "Recently Deleted Topics"
 #~ msgstr "Последно изтрити страници"
+
 #~ msgid "Your password:"
 #~ msgstr "Вашата парола:"
+
 #~ msgid "title='Printable version of this topic' accesskey='p'"
 #~ msgstr ""
 #~ "title='Версия за печат на тази страница' accesskey='p'"
+
 #~ msgid "title='Raw Edit this topic text' accesskey='w'>Ra&w edit"
 #~ msgstr ""
 #~ "title='Редактиране суровия текст на тази страница' "
 #~ "accesskey='w'>Редакция  суров текст"
+
 #~ msgid "or %1"
 #~ msgstr "или %1"
+
 #~ msgid "&WYSIWYG"
 #~ msgstr "&WYSIWYG"
+
 #~ msgid ""
 #~ "Please see <a target='TWikiVariables' onclick=\"return launchWindow('%"
 #~ "1','FileAttachment')\" href='' rel='nofollow'>FileAttachment</a> for more "
@@ -3745,6 +3761,6 @@ msgstr "*трябва* да имате поне един валиден e-mail-�
 #~ "Моля вижте <a target='TWikiVariables' onclick=\"return launchWindow('%"
 #~ "1','FileAttachment')\" href='' rel='nofollow'>FileAttachment</a> за "
 #~ "повече информация относно прикрепване на файлове."
+
 #~ msgid "value='Checkpoint' accesskey='k'"
 #~ msgstr "value='Прилагане' accesskey='k'"
-
