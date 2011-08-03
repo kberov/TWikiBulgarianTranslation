@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bg\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2011-07-31 11:41+0200\n"
+"PO-Revision-Date: 2011-08-04 00:50+0200\n"
 "Last-Translator: Krasimir Berov <k.berov@gmail.com>\n"
 "Language-Team: Bulgarian <k.berov@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -2149,7 +2149,7 @@ msgstr "Редактиране на изходния код"
 
 #: ../core/templates/registernotify.tmpl:10
 msgid "Read %1 to get a quick overview of this collaboration platform. To learn more, study the TWikiTutorial, which is accessible from the same link."
-msgstr ""
+msgstr "%1  е кратък преглед на платформата за сътрудничество. за да научите повече, прочете TWikiTutorial, който е достъпен от същата връзка."
 
 #: ../PatternSkin/templates/edit.pattern.tmpl:30
 msgid "Read new revision help text in new window"
@@ -2166,7 +2166,7 @@ msgstr "Последно променяни страници"
 
 #: ../TWikiUserMappingContrib/data/Main/ChangeProfilePicture.txt:69
 msgid "Recommended step before upload: Crop the image to about square size, and resize it to a width of 200 pixels. This makes it load faster."
-msgstr ""
+msgstr "Преди да качите снимката е препоръчително да я изрежете като квадрат със страни по 200 пиксела. Така ще се зарежда по-бързо."
 
 #: ../core/lib/TWiki/UI/Manage.pm:1217
 msgid "Refresh"
@@ -2555,7 +2555,7 @@ msgstr "Карта на сайта"
 
 #: ../core/data/Main/TWikiPreferences.txt:4
 msgid "Site-level preferences are located in %1, however this %2 prefs topic has override priority and should be used for local customisations. This allows for easier upgrades as you don't need to worry about the shipped preferences clobbering yours. It's easier to keep a handle on if you only copy over the settings you actually change."
-msgstr ""
+msgstr "Настройките  за целия сайт са в %1. Тази страница %2 обаче може ги променя и може да се ползва за локални настройки. Това позволява по лесно да се обновява системата, тъй като няма да се притеснявате, че настройките по подразбиране ще изтрият вашите. Тук може да копирате само настройките, които в действителност сте променили."
 
 #: ../core/templates/attachtables.tmpl:4
 msgid "Size"
@@ -2576,12 +2576,12 @@ msgstr "Някои файлове бяха преименувани при ка�
 
 #: ../core/templates/messages.tmpl:308
 msgid "Some mail tools have an error that causes them to send the same request twice when you click on a link. It you did this, it is possible that you actually *have* registered successfully."
-msgstr ""
+msgstr "Някои програми за е-поща пращат една исъща заявка по два пъти когато щракнете на връзка. Ако сте го направили, най-вероятно *сте* регистриран успешно."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:131
 #: ../core/templates/registernotify.tmpl:14
 msgid "Some people turn it into a personal portal with favorite links, what they work on, what help they'd like, etc."
-msgstr ""
+msgstr "Някои превръщат страницата си в личен портал с любими връзки, новини за себе си и каквото друго си поискат."
 
 #: ../TWikiUserMappingContrib/data/TWiki/TWikiRegistration.txt:5
 msgid "Sorry, Registration has been temporarily disabled"
@@ -2663,7 +2663,7 @@ msgstr "Паролата е нулирана за %1"
 
 #: ../core/templates/oopschangelanguage.tmpl:12
 msgid "TWiki's user interface is available in several languages. If you want to change the language for this session, choose one of the following and hit \"Change language\". Otherwise, follow the \"Cancel\" link on the bottom of the page to return to the previous topic."
-msgstr ""
+msgstr "Потребителският интерфейс на TWiki е преведен на няколко езика. Ако искате да промените езика за тази сесия изберете някой от тях и щракнете на \"Промяна на езика\". Ако ли не, последвайте връзката \"Отказ\" в дъното на страницата, за да се върнете на предишната страница."
 
 #: ../core/templates/messages.tmpl:536
 msgid "Template %1 does not exist"
@@ -2685,7 +2685,7 @@ msgstr "Благодарим, че се регистрирахте"
 
 #: ../core/templates/registernotify.tmpl:8
 msgid "Thank you for registering in the %1 collaboration platform. Please save this e-mail for future reference."
-msgstr ""
+msgstr "Благодарим ви че се регистрирахте в платформата за сътрудничество %1. Моля, запазете това писмо за бъдещи справки."
 
 #: ../core/templates/registerconfirm.tmpl:9
 msgid "Thank you for registering in the %1 collaboration platform. Your verification code is %2."
@@ -2740,7 +2740,7 @@ msgstr "Прикаченият файл и цялата история ще бъ
 
 #: ../core/templates/messages.tmpl:471
 msgid "The chances are good that %1 has simply navigated away from the edit page without saving."
-msgstr ""
+msgstr "Най вероятно %1 просто е напуснал(а) страницата без да запише промените си. "
 
 #: ../core/templates/renamebase.tmpl:70
 msgid "The checkmarked topics will be updated (another form will appear which will _eventually_ allow you to rename any topics that were locked)"
@@ -2768,7 +2768,7 @@ msgstr "Следните страници имат връзки към друг�
 
 #: ../core/templates/messages.tmpl:415
 msgid "The following topics refer to topics in this web, but you are denied access to them:"
-msgstr ""
+msgstr "Следните страници сочат към страници в този раздел, до които нямате достъп:"
 
 #: ../core/templates/messages.tmpl:334
 msgid "The form should be defined in the topic %1"
@@ -2820,7 +2820,7 @@ msgstr "Има проблеми с преименуването на този р
 
 #: ../core/templates/messages.tmpl:234
 msgid "There has been a problem adding your user id to the Password system."
-msgstr ""
+msgstr "Появи се проблем при добавянето на вашия потребител към системата за пароли."
 
 #: ../core/templates/messages.tmpl:340
 msgid "There should be a line that includes %1, look for %2 (or %3)"
@@ -2832,7 +2832,7 @@ msgstr "Това TWiki _не поддържа_ нови регистрации �
 
 #: ../core/templates/messages.tmpl:347
 msgid "This can be automatically upgraded by:"
-msgstr ""
+msgstr "This can be automatically upgraded by:"
 
 #: ../core/templates/messages.tmpl:330
 msgid "This could be for several reasons:"
@@ -2857,15 +2857,15 @@ msgstr "Това е автоматично изпратено писмо от %1
 #: ../core/templates/registernotifyadminfail.tmpl:8
 #: ../core/templates/registernotifyadminfailrem.tmpl:8
 msgid "This is an automated e-mail notification of user registration in %1."
-msgstr ""
+msgstr "Това е автоматично уведомяване по е-пощата за регистрацията в %1."
 
 #: ../core/data/Trash/WebHome.txt:5
 msgid "This is the Trash. Here you can undelete topics; deleted attachments are in TrashAttachment."
-msgstr ""
+msgstr "Това е кошчето. От тук можете да възстановявате изтрити страници. Изтритите прикачени файлове са в TrashAttachment."
 
 #: ../core/templates/renamedelete.tmpl:25
 msgid "This name has been chosen so it doesn't conflict with any other topics already in the %1 web."
-msgstr ""
+msgstr "Това име бе избрано за да няма конфликт с вече съществуващи страници в раздел %1."
 
 #: ../core/templates/messages.tmpl:345
 msgid "This requires the form definition to be present."
@@ -2881,7 +2881,7 @@ msgstr "Тази страница е преместена в %1."
 
 #: ../core/data/TWiki/WebTopicNonWikiTemplate.txt:6
 msgid "This topic name is not recommended because it will not be linked automatically. See %1 for details"
-msgstr ""
+msgstr "Това име не се препоръчва, тъй като няма да се създаде автоматично връзка към страницата ако го ползвате. Вижте %1 за подробности."
 
 #: ../ClassicSkin/templates/viewprint.classic.tmpl:11
 #: ../core/templates/viewprint.tmpl:13
@@ -3008,7 +3008,7 @@ msgstr "Страници в раздел %1, които в момента се �
 
 #: ../core/templates/renamewebbase.tmpl:32
 msgid "Topics which refer to this web and are are currently being edited by other users:"
-msgstr ""
+msgstr "Страници, сочещи към този раздел и в момента се редактират от други потребители:"
 
 #: ../core/templates/renamewebbase.tmpl:35
 msgid "Topics which refer to this web that you do not have permission to change:"
@@ -3092,7 +3092,7 @@ msgstr "Използване на шаблон"
 
 #: ../core/data/Sandbox/WebHome.txt:5
 msgid "Use this web to try out TWiki. Everybody is invited to add or delete some stuff. It is recommended to walk through the %1 to learn the basics of TWiki. It is good practice to sign your contributions with your %2 and date."
-msgstr ""
+msgstr "Използвайте този раздел да пробвате TWiki. Всеки може да добавя или трие неща тук. Препоръчва се да прочетете изцяло %1, за да научите основните понятия. Добра практика е да подписвате каквото сте допринесли с  %2 и дата."
 
 #: ../core/templates/messages.tmpl:10
 msgid "User Account %1 Deleted"
@@ -3120,7 +3120,7 @@ msgstr "Потребители"
 
 #: ../core/templates/messages.tmpl:171
 msgid "Users with automatically generated passwords should proceed immediately to [[%1][change password]] to change their password to something memorable."
-msgstr ""
+msgstr "Потребителите с автоматично генерирани пароли трябва незабавно да отидат на [[%1][промяна на парола]], за да променят паролите си на нещо, което могат да запомнят."
 
 #: ../core/templates/attachtables.tmpl:37
 msgid "Version"
@@ -3267,7 +3267,7 @@ msgstr "Вие сте тук:"
 
 #: ../core/templates/messages.tmpl:115
 msgid "You are recommended to choose short names, preferably less than 10 characters, starting with an upper-case alphabetic character and using only alphanumeric characters. If you want to create a template web (a web just used as a base to create new webs) choose a name that starts with an underscore and has only alphanumeric characters."
-msgstr ""
+msgstr "Добра практика е да избирате къси имена, по-малко от 10 букви, да започват с главна буква и да използвате само букви и числа. Ако искате да създадете раздел шаблон (раздел използван само като пример за създаване на други раздели), изберете име започващо с подчертавка и състоящо се само от букви и числа."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangePassword.txt:12
 msgid "You are required to change your password."
@@ -3291,11 +3291,11 @@ msgstr "Опитвате се да преименувате страница, к
 
 #: ../core/templates/messages.tmpl:522
 msgid "You can [[%1][create a new web]] if you have permission. Contact %2 if you have any questions."
-msgstr ""
+msgstr "Можете да [[%1][създаване на нов раздел]] ако имате права. Свържете се с %2 ако имате някакви въпроси."
 
 #: ../core/templates/messages.tmpl:135
 msgid "You can also use the names of the standard HTML colors (black, silver, gray, white, maroon, red, purple, fuchsia, green, lime, olive, yellow, navy, blue, teal, or aqua)"
-msgstr ""
+msgstr "Можете също да ползвате имената на стандартните цветове за HTML (black, silver, gray, white, maroon, red, purple, fuchsia, green, lime, olive, yellow, navy, blue, teal, или aqua)."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ManagingUsers.txt:139
 #: ../core/templates/registernotify.tmpl:26
@@ -3308,7 +3308,7 @@ msgstr "Можете да преименувате този раздел"
 
 #: ../core/templates/oopschangelanguage.tmpl:7
 msgid "You can set your favorite language permanently by setting the %1 variable in your user topic."
-msgstr ""
+msgstr "Можете да настроите предпочитания от Вас език като зададете стойност на променливата %1 в личната си страница."
 
 #: ../core/templates/messages.tmpl:260
 msgid "You cannot register twice, the name %1 is already registered."
@@ -3335,7 +3335,7 @@ msgstr "Може да се наложи да рестартирате брауз
 
 #: ../core/templates/registerconfirm.tmpl:11
 msgid "You now need to verify your e-mail address. You can do so by entering %1 in the form presented to you when this e-mail was sent, or by visiting %2"
-msgstr ""
+msgstr "Трябва да потвърдите адреса си за е-поща. Може да го направите като въведете %1 във формата която сте видели когато това писмо е било изпратено или като посетите %2."
 
 #: ../TWikiUserMappingContrib/data/TWiki/ChangeEmailAddress.txt:7
 msgid "You really ought to register a valid e-mail address. If TWiki can't find a registered e-mail for you in the secret database, it will look in your user topic for a line like this:"
